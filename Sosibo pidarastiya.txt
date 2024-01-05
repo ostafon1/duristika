@@ -1,4 +1,10 @@
 get the user data...
 process the data
 
+<<<<<<< HEAD
 create an avatar for user
+=======
+create an avatar for user
+
+Davalka
+boroda
